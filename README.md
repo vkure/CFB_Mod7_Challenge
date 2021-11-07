@@ -34,8 +34,9 @@ There is also a web application created through Voila.  Here are some snapshots 
 
 ![Table Reading and PYPL Daily Returns Chart](Images/VoilaPYPLDailyReturn.PNG)
 ![PYPL Cumulative Returns](Images/VoilaPYPLCumReturn.PNG)
-![ETF Cumulative Returns](Images/VoilaETFCumReturn.PNG)
 ![ETF Portfolio Analysis](Images/VoilaETFPortfolioAnswers.PNG)
+![ETF Cumulative Returns](Images/VoilaETFCumReturn.PNG)
+
 
 
 ## Contributors
